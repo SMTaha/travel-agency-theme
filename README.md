@@ -1,5 +1,7 @@
 # TravelAgencyTheme
 
+A travel agency theme built using Angular, Materialize CSS,Scrollspy, Material Box, Slider and Sidenav
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
 ## Development server
